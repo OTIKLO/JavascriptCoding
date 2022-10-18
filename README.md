@@ -49,6 +49,16 @@ str.indexOf(searchValue[, fromIndex])
   
 ## 배열
 
+push(): 배열의 마지막에 새로운 요소를 추가한 후, 변경된 배열의 길이를 반환
+```javascript
+array.push();
+```
+
+pop(): 배열의 마지막 요소를 제거한 후, 제거한 요소를 반환
+```javascript
+array.pop();
+```
+
 #### sort()
 배열 오름차순, 내림차순
 ```javascript
