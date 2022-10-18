@@ -27,6 +27,9 @@ return [max, array.indexOf(max)];
 
 소수점 이하의 값이 0.5와 같으면, 입력받은 수보다 큰 다음 정수를 리턴합니다.
 
+#### Math.pow(x, y)
+x=밑 y=지수  toFixed()로 거듭 제곱 반올림
+
 ## 문자열
 
 #### includes
