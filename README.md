@@ -47,3 +47,15 @@ str.indexOf(searchValue[, fromIndex])
 
   매개변수의 값이 문자열의 길이(str.length)보다 크거나 같다면, 문자열을 검색하지 않고 -1을 반환
   
+## 배열
+
+#### sort()
+배열 오름차순, 내림차순
+```javascript
+array.sort()
+```
+숫자 오름차순, 내림차순
+```javascript
+arr.sort((a, b) => a - b);
+arr.sort((a, b) => b - a);
+```
