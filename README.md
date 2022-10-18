@@ -35,6 +35,16 @@ return [max, array.indexOf(max)];
 
 ## 문자열
 
+#### 소문자 변환
+```javascript
+str.toLowerCase()
+```
+
+#### 대문자 변환
+```javascript
+str.toUpperCase()
+```
+
 #### includes
   특정 문자열이 존재하면 true를 반환하며, 존재하지 않으면 false를 반환합니다.
 ```javascript
