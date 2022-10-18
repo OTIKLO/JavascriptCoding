@@ -3,6 +3,17 @@
 
 ## 수학
 
+#### Math.max()
+최대값구하기
+```javascript
+//최대값 구하고 그 최대값의 인덱스 가져오는 예시
+let max = Math.max(...array);
+return [max, array.indexOf(max)];
+```
+
+#### Math.min()
+최솟값 구하기
+
 #### Math.ceil(x)
 입력받은 숫자보다 크거나 같은 정수 중 가장 작은 정수를 리턴합니다.
 
